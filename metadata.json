@@ -1,0 +1,6 @@
+{
+  "name": "AI Summarizer",
+  "description": "An AI assistant that helps students summarize lessons, articles, and notes quickly into clean summaries and smart study notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
